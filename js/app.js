@@ -1,1 +1,1 @@
-//archivo js
+console.log("hola")
